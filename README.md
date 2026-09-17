@@ -1,2 +1,2 @@
 # periodo-4
-Ingeniería en Desarrollo de Software
+ADMINISTRACION DE BASE DE DATOS
