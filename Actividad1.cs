@@ -30,7 +30,7 @@ namespace ConsoleApp2
 
             Console.WriteLine("\n\n Gracias " + nombre +  " por formar parte de UMI/UniversidadCoppel.\n Bienvenido a " + carrera + ".");
             Console.WriteLine("\n\n" + nombre);
-            Console.WriteLine(edad + "años")
+            Console.WriteLine(edad + "años");
             Console.WriteLine(fechaNac);
             Console.WriteLine(carrera);
             Console.WriteLine("\n\n\n");
